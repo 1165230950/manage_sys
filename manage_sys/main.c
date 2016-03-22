@@ -4,6 +4,7 @@ int message_fd;
 users *user_head;
 messages *message_head;
 
+
 /*------------------------处理函数------------------------*/
 void fun1()
 {
